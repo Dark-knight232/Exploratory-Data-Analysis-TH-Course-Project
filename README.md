@@ -4,7 +4,7 @@ BEPS Dataset Analysis
 
 This project analyzes the British Election Panel Study (BEPS) dataset (BEPS_extracted.csv) through structured data exploration and visualization techniques. The notebook walks through the complete data analysis workflow, from loading the dataset to generating insights using univariate, bivariate, and multivariate methods.
 
-Dataset
+Dataset->
 
 The dataset contains survey responses including demographic details, political preferences, and opinions on various political and economic topics.
 
@@ -26,7 +26,7 @@ political.knowledge – Political knowledge score
 
 gender – Respondent’s gender
 
-Tasks Performed
+Tasks Performed->
 
 Data Loading – Import and preview dataset.
 
@@ -46,7 +46,7 @@ Multivariate Analysis – Relationship visualization using heatmaps, scatter plo
 
 Visualization – Using matplotlib and seaborn for clear and interpretable plots.
 
-Tools & Libraries
+Tools & Libraries->
 
 Python 3
 
